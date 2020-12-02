@@ -1,15 +1,9 @@
-<!-- -HEAD -->
-[<style type='text/css'>
-img { 
-  border-radius: 5px;
-  border: 2px solid #111111
-}
-</style>]()
-
+<!-- HEAD -->
 <img style="border-radius = 50" src="https://i.ibb.co/qYsTpBb/1.jpg" alt="banner" border="0">
 
 ---
 
+<!-- BODY -->
 ### **Hi there!** 👋!
 
 My name is Lucas. I am a 31 years old Argentinian who loves to travel, video-games and is curious by nature. I am currently focused on Full stack web development, transportation systems, AGILE Methodologies, digital transformation and the blockchain technology!.
@@ -22,7 +16,7 @@ I like to see myself as a servant leader and professional coordinator under chal
 
 > I have an old but cute dog. 🐶
 
-<br/>
+<br/> 
 
 ### **Get in touch:**
 
@@ -38,8 +32,6 @@ I like to see myself as a servant leader and professional coordinator under chal
 [<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" alt="uk" height=22> ](Fluent)
 [<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-brazil_1f1e7-1f1f7.png" alt="br" height=22> ](Advanced)
 [<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-france_1f1eb-1f1f7.png" alt="fr" height=22> ](Basic)
-
-<br/>
 
 ### **Technologies:**
 
@@ -63,12 +55,8 @@ I like to see myself as a servant leader and professional coordinator under chal
 [<img height=30 alt="Sabre" src="https://www.gmkfreelogos.com/logos/S/img/Sabre.gif"/>]()
 
 <br/>
-<br/>
-
 ---
-
-<br/>
-
+<!-- FOOTER -->
 [![Lucas Github Stats](https://github-readme-stats.vercel.app/api?username=lukasver&count_private=true&show_icons=true&hide=contribs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/Lverdiell
