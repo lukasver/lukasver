@@ -16,8 +16,6 @@ I like to see myself as a servant leader and professional coordinator under chal
 
 > I have an old but cute dog. 🐶
 
-<br/> 
-
 ### **Get in touch:**
 
 [<img alt="twitter" src="https://image.flaticon.com/icons/png/512/60/60580.png" height=22>][twitter]
@@ -56,7 +54,9 @@ I like to see myself as a servant leader and professional coordinator under chal
 
 <br/>
 ---
+
 <!-- FOOTER -->
+
 [![Lucas Github Stats](https://github-readme-stats.vercel.app/api?username=lukasver&count_private=true&show_icons=true&hide=contribs&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/Lverdiell
