@@ -26,10 +26,10 @@ I like to see myself as a servant leader and professional coordinator under chal
 
 ### **Languages:**
 
-[<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-spain_1f1ea-1f1f8.png" alt="es" height=22>](Native)
-[<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" alt="uk" height=22> ](Fluent)
-[<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-brazil_1f1e7-1f1f7.png" alt="br" height=22> ](Advanced)
-[<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-france_1f1eb-1f1f7.png" alt="fr" height=22> ](Basic)
+[<img alt="ES" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-spain_1f1ea-1f1f8.png" height=22>](Native)
+[<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-united-kingdom_1f1ec-1f1e7.png" alt="UK" height=22> ](Fluent)
+[<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-brazil_1f1e7-1f1f7.png" alt="BR" height=22> ](Advanced)
+[<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/twitter/259/flag-france_1f1eb-1f1f7.png" alt="FR" height=22> ](Basic)
 
 ### **Technologies:**
 
@@ -53,6 +53,7 @@ I like to see myself as a servant leader and professional coordinator under chal
 [<img height=30 alt="Sabre" src="https://www.gmkfreelogos.com/logos/S/img/Sabre.gif"/>]()
 
 <br/>
+
 ---
 
 <!-- FOOTER -->
