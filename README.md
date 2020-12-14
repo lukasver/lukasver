@@ -41,6 +41,7 @@ I like to see myself as a servant leader and professional coordinator under chal
 [<img height=30 alt="NodeJS" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/233_Node_Js_logo-512.png"/>]()
 [<img height=30 alt="React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"/>]()
 [<img height=30 alt="Redux" src="https://img.icons8.com/color/48/000000/redux.png"/>]()
+[<img height=30 alt="Redux" src="https://material-ui.com/static/logo.png"/>]()
 [<img height=30 alt="Express" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPDyR-Xb70DsaMdrk28bt1DZ6xZ061zBDKew&usqp=CAU"/>]()
 [<img height=30 alt="SQL" src="https://www.logolynx.com/images/logolynx/c0/c0f84d9509d6690a70ce4c596f740c62.png"/>]()
 [<img height=30 alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>]()
