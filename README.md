@@ -44,7 +44,7 @@ I like to see myself as a servant leader and professional coordinator under chal
 [<img height=30 alt="Express" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPDyR-Xb70DsaMdrk28bt1DZ6xZ061zBDKew&usqp=CAU"/>]()
 [<img height=30 alt="SQL" src="https://www.logolynx.com/images/logolynx/c0/c0f84d9509d6690a70ce4c596f740c62.png"/>]()
 [<img height=30 alt="PostgreSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"/>]()
-[<img height=30 alt="Sequelize ORM" src="https://assets.stickpng.com/images/58482ee4cef1014c0b5e4a75.png"/>]()
+[<img height=30 alt="Sequelize ORM" src="https://c0.klipartz.com/pngpicture/51/441/gratis-png-icono-de-cubo-secuela-logo-thumbnail.png"/>]()
 [<img height=30 alt="Open-API" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png"/>]()
 [<img height=30 alt="Github" src="https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"/>]()
 [<img height=30 alt="git" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"/>]()
