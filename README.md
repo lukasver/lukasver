@@ -17,6 +17,8 @@ I like to see myself as a servant leader and professional coordinator under chal
 
 > I love playing video-games, chess and travel. 🕹️♟️✈️
 
+Want to know more? check my [Notion resume](https://giant-muse-191.notion.site/Languages-de53451aa82c4aabb0af57f704f86bc3) or contact me:
+
 ### **Get in touch:**
 
 [<img alt="twitter" src="https://seeklogo.com/images/T/twitter-square-black-and-white-logo-962E683117-seeklogo.com.png" height=22>][twitter]
@@ -32,7 +34,7 @@ I like to see myself as a servant leader and professional coordinator under chal
 🇵🇹PT(Intermediate) <br/>
 🇫🇷FR(Basic) <br/>
 
-### **Technologies:**
+### **Stack:**
 
 [<img height=30 alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1024px-Visual_Studio_Code_1.18_icon.svg.png"/>]()
 [<img height=30 alt="Typescript" src="https://ypcode.files.wordpress.com/2017/08/typescript_logo_new.png?w=192"/>]()
