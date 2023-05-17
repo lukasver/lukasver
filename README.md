@@ -17,7 +17,7 @@ I like to see myself as a servant leader and professional coordinator under chal
 
 > I love playing video-games, chess and travel. 🕹️♟️✈️
 
-Want to know more? check my [Notion resume](https://giant-muse-191.notion.site/Languages-de53451aa82c4aabb0af57f704f86bc3) or contact me:
+Want to know more? check my [Notion resume](https://www.notion.so/Resume-eab870b34e6847009eb31c1c93cdfea7?pvs=4) or contact me:
 
 ### **Get in touch:**
 
