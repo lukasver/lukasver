@@ -65,7 +65,29 @@ Want to know more? check my [Notion resume](https://www.notion.so/Resume-eab870b
 
 <!-- FOOTER -->
 
-[![Lucas Github Stats](https://github-readme-stats.vercel.app/api?username=lukasver&count_private=true&show_icons=true&hide=contribs&hide_border=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats-lukasver.vercel.app/api?username=lukasver&show_icons=true&show=reviews&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-lukasver.vercel.app/api?username=lukasver&show_icons=true&show=reviews"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-lukasver.vercel.app/api?username=lukasver&show_icons=true&show=reviews" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats-lukasver.vercel.app/api/top-langs/?username=lukasver&theme=dark&exclude_repo=fbchallenge"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-lukasver.vercel.app/api/top-langs/?username=lukasver&exclude_repo=fbchallenge"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-lukasver.vercel.app/api/top-langs/?username=lukasver&exclude_repo=fbchallenge" />
+</picture>
 
 [twitter]: https://twitter.com/Lverdiell
 [instagram]: https://www.instagram.com/l.verdiell/
