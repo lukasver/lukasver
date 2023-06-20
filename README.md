@@ -64,7 +64,7 @@ Want to know more? check my [Notion resume](https://www.notion.so/Resume-eab870b
 ---
 
 <!-- FOOTER -->
-
+<div style="display:flex;gap:1rem;align-items:flex-start">
 <picture>
   <source
     srcset="https://github-readme-stats-lukasver.vercel.app/api?username=lukasver&show_icons=true&show=reviews&theme=dark"
@@ -88,6 +88,7 @@ Want to know more? check my [Notion resume](https://www.notion.so/Resume-eab870b
   />
   <img src="https://github-readme-stats-lukasver.vercel.app/api/top-langs/?username=lukasver&exclude_repo=fbchallenge" />
 </picture>
+</div>
 
 [twitter]: https://twitter.com/Lverdiell
 [instagram]: https://www.instagram.com/l.verdiell/
