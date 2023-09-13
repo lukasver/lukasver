@@ -1,6 +1,6 @@
 <!-- HEAD -->
 <div style="position:relative; height:200px; width:100%; overflow:hidden">
-<img style="object-fit: cover; width:100%" src="https://cdn.midjourney.com/a86c7243-ec55-4533-a0db-a27f4878c0c6/0_0.webp" alt="banner" border="0">
+<img style="object-fit: cover; width:100%" src="https://cdn.beta.smat.io/assets/lucas-a.webp" alt="banner" border="0">
 </div>
 
 ---
