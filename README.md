@@ -67,26 +67,26 @@ Want to know more? check my [Notion resume](https://www.notion.so/Resume-eab870b
 <div style="display:flex;gap:1rem;align-items:flex-start">
 <picture>
   <source
-    srcset="https://github-readme-stats-lukasver.vercel.app/api?username=lukasver&show_icons=true&show=reviews&theme=dark"
+    srcset="https://gh-readme-stats-psi.vercel.app/api?username=lukasver&show_icons=true&show=reviews&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-lukasver.vercel.app/api?username=lukasver&show_icons=true&show=reviews"
+    srcset="https://gh-readme-stats-psi.vercel.app/api?username=lukasver&show_icons=true&show=reviews"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-lukasver.vercel.app/api?username=lukasver&show_icons=true&show=reviews" />
+  <img src="https://gh-readme-stats-psi.vercel.app/api?username=lukasver&show_icons=true&show=reviews" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats-lukasver.vercel.app/api/top-langs/?username=lukasver&theme=dark&exclude_repo=fbchallenge"
+    srcset="https://gh-readme-stats-psi.vercel.app/api/top-langs/?username=lukasver&theme=dark&exclude_repo=fbchallenge"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-lukasver.vercel.app/api/top-langs/?username=lukasver&exclude_repo=fbchallenge"
+    srcset="https://gh-readme-stats-psi.vercel.app/api/top-langs/?username=lukasver&exclude_repo=fbchallenge"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-lukasver.vercel.app/api/top-langs/?username=lukasver&exclude_repo=fbchallenge" />
+  <img src="https://gh-readme-stats-psi.vercel.app/api/top-langs/?username=lukasver&exclude_repo=fbchallenge" />
 </picture>
 </div>
 
